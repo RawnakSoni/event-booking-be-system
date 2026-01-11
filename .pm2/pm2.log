@@ -1,0 +1,27 @@
+Debugger attached.
+2026-01-11T12:20:03: PM2 log: ===============================================================================
+2026-01-11T12:20:03: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2026-01-11T12:20:03: PM2 log: Time                 : Sun Jan 11 2026 12:20:03 GMT+0530 (India Standard Time)
+2026-01-11T12:20:03: PM2 log: PM2 version          : 5.3.1
+2026-01-11T12:20:03: PM2 log: Node.js version      : 23.6.0
+2026-01-11T12:20:03: PM2 log: Current arch         : arm64
+2026-01-11T12:20:03: PM2 log: PM2 home             : ./.pm2
+2026-01-11T12:20:03: PM2 log: PM2 PID file         : /Users/akhilnair/booking-system-test/.pm2/pm2.pid
+2026-01-11T12:20:03: PM2 log: RPC socket file      : /Users/akhilnair/booking-system-test/.pm2/rpc.sock
+2026-01-11T12:20:03: PM2 log: BUS socket file      : /Users/akhilnair/booking-system-test/.pm2/pub.sock
+2026-01-11T12:20:03: PM2 log: Application log path : /Users/akhilnair/booking-system-test/.pm2/logs
+2026-01-11T12:20:03: PM2 log: Worker Interval      : 30000
+2026-01-11T12:20:03: PM2 log: Process dump file    : /Users/akhilnair/booking-system-test/.pm2/dump.pm2
+2026-01-11T12:20:03: PM2 log: Concurrent actions   : 2
+2026-01-11T12:20:03: PM2 log: SIGTERM timeout      : 1600
+2026-01-11T12:20:03: PM2 log: ===============================================================================
+2026-01-11T12:20:03: PM2 log: App [api-server:0] starting in -cluster mode-
+2026-01-11T12:20:03: PM2 log: App [background-worker:1] starting in -cluster mode-
+2026-01-11T12:20:03: PM2 log: App [api-server:0] online
+2026-01-11T12:20:03: PM2 log: App [background-worker:1] online
+Debugger attached.
+Debugger attached.
+(node:6036) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:6035) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
